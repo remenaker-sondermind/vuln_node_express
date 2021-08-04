@@ -1,0 +1,4 @@
+app:
+  applicationId: 0feeb046-5809-4604-b845-de7a76ff418b
+  env: Development
+  host: http://localhost:3000
